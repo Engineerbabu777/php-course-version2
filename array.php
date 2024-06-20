@@ -9,6 +9,8 @@ foreach($users1 as $user){
     echo $user."<br />";
 }
 
+echo count($users1)
+
 
 
 //$users1[] = "peter";
